@@ -6,3 +6,6 @@
 ### 5:贝塞尔曲线、曲面、半边数据结构实现模型三角形细分...
 ### 6:光线追踪的基础实现、BVH实现加速结构
 ### 7:光线追踪实现金属表面反射、全局环境光照、实现薄镜模型
+
+Remember to read the report before test the code!
+You can find how to run the code in the report!
