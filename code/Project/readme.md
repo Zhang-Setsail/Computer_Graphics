@@ -8,4 +8,4 @@ If the link does not work, please contact me.
 
 Also, you can down the result video in github.
 
-[![Watch the video](https://github.com/Zhang-Setsail/Computer_Graphics/blob/main/code/Project/Final.png)](https://github.com/Zhang-Setsail/Computer_Graphics/blob/main/code/Project/Final.mp4)
+[![Watch the video](https://github.com/Zhang-Setsail/Computer_Graphics/blob/main/code/Project/Final.jpg)](https://github.com/Zhang-Setsail/Computer_Graphics/blob/main/code/Project/Final.mp4)
